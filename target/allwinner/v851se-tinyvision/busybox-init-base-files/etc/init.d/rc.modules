@@ -1,0 +1,4 @@
+#!/bin/sh
+insmod /lib/modules/4.9.191/xradio_mac.ko
+insmod /lib/modules/4.9.191/xradio_core.ko
+insmod /lib/modules/4.9.191/xradio_wlan.ko
